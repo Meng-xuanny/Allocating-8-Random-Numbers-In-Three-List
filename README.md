@@ -1,1 +1,1 @@
-# Allocating-8-Random-Numbers-In-Three-List
+# Allocating-Numbers(1-8)-Randomly-In-Three-List
